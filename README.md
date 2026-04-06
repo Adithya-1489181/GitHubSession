@@ -1,3 +1,1 @@
 # GitHubSession
-
-Random Text
